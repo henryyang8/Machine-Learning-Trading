@@ -1,1 +1,1 @@
-# Machine-Learning-Trading
+# GT_Machine Learning for Trading
